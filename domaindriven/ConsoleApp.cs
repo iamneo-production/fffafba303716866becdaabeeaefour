@@ -13,7 +13,7 @@ namespace domaindriven
 
         public void Run()
         {
-            
+            Console.Write("jai");
         }
     }
 }

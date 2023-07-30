@@ -988,8 +988,8 @@
     },
     "domaindriven/1.0.0": {
       "type": "project",
-      "path": "../domaindriven.csproj",
-      "msbuildProject": "../domaindriven.csproj"
+      "path": "../domaindriven/domaindriven.csproj",
+      "msbuildProject": "../domaindriven/domaindriven.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1008,11 +1008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/coder/project/workspace/domaindriven/TestProject/TestProject.csproj",
+      "projectUniqueName": "/home/coder/project/workspace/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "/home/coder/project/workspace/domaindriven/TestProject/TestProject.csproj",
+      "projectPath": "/home/coder/project/workspace/TestProject/TestProject.csproj",
       "packagesPath": "/home/coder/.nuget/packages/",
-      "outputPath": "/home/coder/project/workspace/domaindriven/TestProject/obj/",
+      "outputPath": "/home/coder/project/workspace/TestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/coder/.nuget/NuGet/NuGet.Config"
